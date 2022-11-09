@@ -48,8 +48,8 @@ class Program
     public static void Main()
     {
         Console.WriteLine("Podaj pizz: (a,b,c)||(a b c)||(a;b;c) ");
-        string pizze = Console.ReadLine();
-        string[] listaPizz = pizze.Split(',', ' ', ';');
+        string pizze = Console.ReadLine() ;
+        string[] listaPizz = !string.IsNullOrWhiteSpace(pizze) ? pizze.Split(',', ' ', ';') : new string[] {"zle wpisales"};
 
         var mojePizze = new MojaPizza(listaPizz);
         mojePizze.Pokaz();
