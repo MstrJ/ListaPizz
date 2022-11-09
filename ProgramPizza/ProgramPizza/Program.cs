@@ -12,4 +12,8 @@
             Console.WriteLine($"Pizza {item}");
         }
     }
+
+    // 1. Zrob classe o nazwie MojaPizza
+    // 2. Zawiera ona metode dzieki ktorej pokazujemy pizze , w ktorej przesylamy parametr listaPizz
+    // 3  Dodaj cos od siebie :)
 }
