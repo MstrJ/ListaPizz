@@ -1,0 +1,15 @@
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\bin\Debug\net6.0\ProgramPizza.exe
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\bin\Debug\net6.0\ProgramPizza.deps.json
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\bin\Debug\net6.0\ProgramPizza.runtimeconfig.json
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\bin\Debug\net6.0\ProgramPizza.dll
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\bin\Debug\net6.0\ProgramPizza.pdb
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\obj\Debug\net6.0\ProgramPizza.csproj.AssemblyReference.cache
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\obj\Debug\net6.0\ProgramPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\obj\Debug\net6.0\ProgramPizza.AssemblyInfoInputs.cache
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\obj\Debug\net6.0\ProgramPizza.AssemblyInfo.cs
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\obj\Debug\net6.0\ProgramPizza.csproj.CoreCompileInputs.cache
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\obj\Debug\net6.0\ProgramPizza.dll
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\obj\Debug\net6.0\refint\ProgramPizza.dll
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\obj\Debug\net6.0\ProgramPizza.pdb
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\obj\Debug\net6.0\ProgramPizza.genruntimeconfig.cache
+C:\Users\Intern\source\repos\ProjektPizza\ListaPizz\ProgramPizza\ProgramPizza\obj\Debug\net6.0\ref\ProgramPizza.dll
