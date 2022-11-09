@@ -1,1 +1,2 @@
 # ListaPizz
+Testowe zadanie githuba
