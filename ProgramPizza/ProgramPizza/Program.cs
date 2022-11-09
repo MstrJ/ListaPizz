@@ -9,16 +9,34 @@
     {
         this.listaPizz = listaPizz;
     }
+    public bool Poprawnosc()
+    {
+        if (listaPizz.Length > 0) return true;
+        else return false;
+    }
 
     public void Pokaz()
     {
-        if (listaPizz.Length > 0)
+        Console.WriteLine($"Dlugosc listy Pizz: {listaPizz.Length}");
+        if (Poprawnosc())
         {
             Console.WriteLine("Moje Ulubione Pizze:");
             foreach (var item in listaPizz)
             {
-                Console.Write($"{item}\t");
+                Console.Write($"\t{item}");
             }
+        }
+        Console.WriteLine();
+    }
+
+
+    public void LosujPizze()
+    {
+        if (Poprawnosc())
+        {
+            var rand = new Random();
+            int i = rand.Next(listaPizz.Length - 1);
+            Console.WriteLine($"Twoja Losowa Pizza to {listaPizz[i]}");
         }
     }
 }
@@ -35,6 +53,8 @@ class Program
 
         var mojePizze = new MojaPizza(listaPizz);
         mojePizze.Pokaz();
+
+        mojePizze.LosujPizze();
     }
 
     // 1. Zrob classe o nazwie MojaPizza
